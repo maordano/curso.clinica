@@ -1,2 +1,0 @@
-
-Ejercicio de reproducibilidad
